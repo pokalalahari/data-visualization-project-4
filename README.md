@@ -1,0 +1,33 @@
+# Data Visualization Project
+
+## Project Title
+Data Visualization using Microsoft Excel
+
+## Objective
+The objective of this project is to analyze the given dataset and represent the data in a clear visual format using charts and PivotTables.
+
+## Dataset
+The project uses the provided Data Analytics Excel dataset.
+
+## Tools Used
+- Microsoft Excel
+
+## Project Steps
+1. Imported the dataset into Excel.
+2. Checked and prepared the data.
+3. Created PivotTables for analysis.
+4. Generated different charts:
+   - Total Price by Product
+   - Order Status Distribution
+   - Payment Method Analysis
+5. Saved the visual outputs.
+6. Prepared the project report.
+
+## Output
+The project contains:
+- Dataset file
+- Chart images
+- Project report
+
+## Conclusion
+The visualization helps to understand data patterns, product performance, order status, and payment methods easily.
